@@ -1,7 +1,7 @@
 # Calculadora de IMC
 
 <p align="center">
-  <img src="CalculadoraIMCWeb/src/main/webapp/images/mobile (1).png" alt="Imagem" width="30%">
+  <img src="src/main/webapp/images/mobile (1).png" alt="Imagem" width="30%">
 </p>
 
 Uma simples calculadora de Índice de Massa Corporal (IMC) desenvolvida em HTML, CSS e Java Web , JSP. O IMC é uma medida utilizada para avaliar se uma pessoa está abaixo do peso, no peso normal, com sobrepeso ou obesa, de acordo com a relação entre peso e altura.
