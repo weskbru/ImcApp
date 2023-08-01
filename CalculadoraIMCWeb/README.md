@@ -33,7 +33,7 @@ A classificação do IMC é feita da seguinte forma:
 ## Screenshot
 
 <p align="center">
-  <img src="./img/mobile-gif1.gif" alt="Imagem" width="30%">
+  <img src="src/main/webapp/images/mobile-gif1.gif" alt="Imagem" width="30%">
 </p>
 
 ### Autor
