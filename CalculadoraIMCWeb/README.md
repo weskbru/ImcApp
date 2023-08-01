@@ -8,7 +8,7 @@ Uma simples calculadora de Índice de Massa Corporal (IMC) desenvolvida em HTML,
 
 ## Como Executar
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/weskbru/ImcApp/tree/main/CalculadoraIMCWeb
 
 Abra o arquivo index.html em qualquer navegador moderno para acessar a calculadora de IMC.
 
